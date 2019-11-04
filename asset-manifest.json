@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Reservation-App/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/Reservation-App/static/js/main.3508755d.chunk.js",
+    "main.js.map": "/Reservation-App/static/js/main.3508755d.chunk.js.map",
+    "runtime-main.js": "/Reservation-App/static/js/runtime-main.5fe33877.js",
+    "runtime-main.js.map": "/Reservation-App/static/js/runtime-main.5fe33877.js.map",
+    "static/css/2.0624914a.chunk.css": "/Reservation-App/static/css/2.0624914a.chunk.css",
+    "static/js/2.db505384.chunk.js": "/Reservation-App/static/js/2.db505384.chunk.js",
+    "static/js/2.db505384.chunk.js.map": "/Reservation-App/static/js/2.db505384.chunk.js.map",
+    "index.html": "/Reservation-App/index.html",
+    "precache-manifest.3055661c80037d3facc12f85add83dae.js": "/Reservation-App/precache-manifest.3055661c80037d3facc12f85add83dae.js",
+    "service-worker.js": "/Reservation-App/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Reservation-App/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/Reservation-App/static/css/main.d498bfb3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fe33877.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.db505384.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.3508755d.chunk.js"
+  ]
+}
