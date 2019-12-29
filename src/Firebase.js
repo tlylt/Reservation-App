@@ -5,13 +5,13 @@ import "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBLyaLaT8fbNXoSb_MIgL9MEglKu6SUhoI",
-  authDomain: "reservation-app-e9376.firebaseapp.com",
-  databaseURL: "https://reservation-app-e9376.firebaseio.com",
-  projectId: "reservation-app-e9376",
-  storageBucket: "reservation-app-e9376.appspot.com",
-  messagingSenderId: "1089395231766",
-  appId: "1:1089395231766:web:53f971b387d2ebb0daf937"
+  apiKey: "Your API Key",
+  authDomain: "Your auth domain",
+  databaseURL: "url",
+  projectId: "id",
+  storageBucket: "...",
+  messagingSenderId: "...",
+  appId: "..."
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
